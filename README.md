@@ -1,4 +1,4 @@
-Proyecto miliamperimetro con mayor precision con la ayuda de instrumento patron
+Proyecto miliamperimetro de mayor precision con la ayuda de instrumento patron
 
 [![Texto alternativo](https://img.youtube.com/vi/xf6562S__Sg/maxresdefault.jpg)](https://www.youtube.com/watch?v=xf6562S__Sg)
 
