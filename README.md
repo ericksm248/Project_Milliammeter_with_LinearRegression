@@ -1,5 +1,7 @@
-Proyecto miliamperimetro de mayor precision con la ayuda de instrumento patron
+Milliammeter with High Precision Project using Standard Instruments and Linear Regression
+
+This project was developed using the PIC12F685, but it can be implemented with any other microcontroller by applying the same concepts and techniques.
 
 [![Texto alternativo](https://img.youtube.com/vi/xf6562S__Sg/maxresdefault.jpg)](https://www.youtube.com/watch?v=xf6562S__Sg)
 
-Mira el video de la explicación y el funcionamiento en YouTube haciendo click en la imagen!
+Watch the explanation and demonstration video on YouTube by clicking the image!
