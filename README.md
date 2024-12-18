@@ -6,7 +6,7 @@ This project was developed using the PIC12F685, but it can be implemented with a
 
 ### 1. Implement the Non-inverting Amplifier:
 
-> Implement the non-inverting amplifier with a gain of approximately 10 or 12 times the input voltage (for the measurement range used).
+>Implement the non-inverting amplifier with a gain of approximately 10 or 12 times the input voltage (for the measurement range used).
 
 ### 2. Use a Milliammeter as a Reference Instrument:
 
