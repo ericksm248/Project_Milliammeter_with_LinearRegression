@@ -4,11 +4,11 @@ This project was developed using the PIC12F685, but it can be implemented with a
 
 ## Steps to Develop This Project
 
-1. Implement the Non-inverting Amplifier:
+### 1. Implement the Non-inverting Amplifier:
 
 Implement the non-inverting amplifier with a gain of approximately 10 or 12 times the input voltage (for the measurement range used).
 
-2. Use a Milliammeter as a Reference Instrument:
+### 2. Use a Milliammeter as a Reference Instrument:
 
 Use a milliammeter as a reference instrument and take two measurements: current in the shunt resistor with the milliammeter, and read ADC value in the microcontroller.
 
