@@ -22,6 +22,6 @@ y = m*(np.linspace(1,600)) + b
 plt.plot(np.linspace(1,600),y)
 plt.title("Trend Line")
 plt.ylabel("Milliamps Standar Instrument")
-plt.xlabel("ADC read from PIC")
+plt.xlabel("ADC read from Microcontroller")
 plt.legend(["Dispersed points",f"Straight Line found : y = {m:.4f}x + {b:.4f}"])
 plt.show()
