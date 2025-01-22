@@ -1,5 +1,5 @@
 ## Milliammeter with High Precision using a Reference Instrument and Linear Regression
-
+<br>
 This project was developed using the PIC12F685, but it can be implemented with any other microcontroller by applying the same concepts and techniques.
 
 ## Steps to Develop This Project
