@@ -39,7 +39,16 @@ This project was developed using the PIC12F685, but it can be implemented with a
 
 - Consider that the current can vary in the shunt resistor if it starts to heat up.
 
+### Contact
+For business inquiries, contact me at: 
+ericksm.electronica@gmail.com
+
+### Support My Work 💖
+If you find this project useful, consider supporting me:
+
+[💰 Donate via PayPal](https://paypal.me/LaElectronicaAplicad)   
+
+Watch the explanation and demonstration video on YouTube by clicking the image!  
 
 [![Texto alternativo](https://img.youtube.com/vi/xf6562S__Sg/maxresdefault.jpg)](https://www.youtube.com/watch?v=xf6562S__Sg)
 
-Watch the explanation and demonstration video on YouTube by clicking the image!
